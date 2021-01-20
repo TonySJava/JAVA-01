@@ -1,5 +1,3 @@
-package JVM;
-
 import com.oracle.tools.packager.IOUtils;
 import java.io.File;
 import java.io.IOException;
